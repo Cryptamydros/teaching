@@ -1,11 +1,3 @@
-## Download conda using the below commands. Click enter and y/yes for all the prompts that appear on the terminal
-
-wget "https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh"
-bash Anaconda-latest-Linux-x86_64.sh
-
-
-
-
 
 ## Installing Programmes on the Server
 ##Getting Programmes Installed Using Conda
